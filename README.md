@@ -1,2 +1,2 @@
-# Szkop-zadania
+#Szkopul-zadania
 Problemy algorytmiczne z zadań w szkopule
